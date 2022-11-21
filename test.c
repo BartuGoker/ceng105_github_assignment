@@ -14,7 +14,7 @@ int main(){
     int sayi;
 
     scanf("%d",&sayi);
-    printf("girdiginiz sayinin 2 fazlasi = %d",sayi+2);
+    printf("girdiginiz sayinin 2 fazlasi budur = %d",sayi+2);
 
 
     return 0;
