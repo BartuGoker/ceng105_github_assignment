@@ -3,8 +3,12 @@
 
 int main(){
 
-    printf("test");
+    printf("test \n");
 
+    int sayi;
+
+    scanf("%d",&sayi);
+    printf("%d",sayi);
 
 
     return 0;
